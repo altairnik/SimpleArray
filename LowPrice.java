@@ -9,6 +9,6 @@ public class LowPrice {
             if (prod.price < 100)
                 summ++;
         }
-        System.out.println("There are " + summ + " cheaper 100");
+        System.out.println("There are " + summ + "products cheaper 100");
     }
 }
